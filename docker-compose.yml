@@ -1,0 +1,10 @@
+version: "3"
+services: 
+    php_new:
+       image: opt_php
+      # ports:
+      #  - "8080:80"
+
+
+
+
